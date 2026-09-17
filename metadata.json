@@ -1,0 +1,6 @@
+{
+  "name": "MoHCC Zimbabwe Drug Tracking System",
+  "description": "Production-grade mobile and web digital health tool (DTS-Zim) for the Ministry of Health and Child Care of Zimbabwe. Last-mile essential medicines tracking, FEFO batch traceability, offline sync, and provincial analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
